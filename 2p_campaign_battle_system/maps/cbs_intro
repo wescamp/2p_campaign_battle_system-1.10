@@ -1,0 +1,12 @@
+border_size=1
+usage=map
+
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Rp          , Gg          , Gs^Fp       , Gs^Fp       , Gg          
+Gs^Fp       , Gg          , Gs^Fp       , Gg          , Rp          , Gg          , Gs^Fp       , Gg          , Gg          
+Gg          , Gg          , Rp          , Rp          , Rp          , Rp          , Rp          , Gg          , Gg          
+Gg          , Gg          , 1 Kh        , Rp          , Rp          , Rp          , 2 Kh        , Gg          , Gs^Fp       
+Gs^Fp       , Gs^Fp       , Gg          , Rp          , Rp          , Rp          , Gg          , Gs^Fp       , Gs^Fp       
+Gg          , Gg          , Xv          , Gg          , Gg          , Gg          , Xv          , Gg          , Gg          
+Xv          , Xv          , 3 Kv        , Xv          , Xv          , Xv          , Kv          , Xv          , Xv          
+Xv          , Ggf         , Ggf         , Ggf         , Xv          , Ggf         , Ggf         , Ggf         , Xv          
+Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          
